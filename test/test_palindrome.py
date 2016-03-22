@@ -1,5 +1,5 @@
 import unittest
-from app.mclaren import Palindrome
+from app.palindrome import Palindrome
 import numpy as np
 
 
