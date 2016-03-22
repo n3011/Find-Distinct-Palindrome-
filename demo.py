@@ -1,6 +1,6 @@
 import sys
 import numpy as np
-from app.mclaren import Palindrome
+from app.palindrome import Palindrome
 
 if __name__ == '__main__':   
  
