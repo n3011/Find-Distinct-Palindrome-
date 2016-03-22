@@ -1,7 +1,7 @@
 import sys
 import numpy as np
 #----------------------------------#
-#Written By Mrinal Haloi#
+#Written By Mrinal Haloi-----------#
 #-----------------------------------#
 class Palindrome(object):
     def __init__(self, *args, **kwargs):
